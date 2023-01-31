@@ -19,7 +19,7 @@
   <h5><p>Follow me around the web:</p></h5>
   <div align="center">
     <div align="center">
-    <a href="https://www.linkedin.com/in/Ferid Əlizadə" target="_blank">
+    <a href="https://www.linkedin.com/in/ferid-%C9%99lizad%C9%99-28ba64254/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/alizade__177?utm_medium=copy_link" target="_blank">
